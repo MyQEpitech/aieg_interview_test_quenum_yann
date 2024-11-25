@@ -6,4 +6,4 @@ def find_missing_number(list):
     return expected_sum - list_sum
 
 
-print(find_missing_number([1, 2, 3, 4, 6]))
+# print(find_missing_number([1, 2, 3, 4, 6]))
