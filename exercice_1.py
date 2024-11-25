@@ -7,3 +7,5 @@ def sum_of_digits(int) :
     sum += digit
 
   return sum
+
+# print(sum_of_digits(1234444))
